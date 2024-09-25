@@ -11,3 +11,9 @@
     color: hsl(240, 77%, 53%);
     font-size: 36px;
 }
+
+#fourth {
+    background-color: hsl(120, 85%, 80%);
+    font-size: 24px;
+    font-weight: bold;
+}
