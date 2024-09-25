@@ -3,6 +3,11 @@
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.odd-element.three{
+.odd-element.third{
     font-size: 24px;
+}
+
+#second {
+    color: hsl(240, 77%, 53%);
+    font-size: 36px;
 }
